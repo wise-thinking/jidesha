@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "Desktop streamer for 사다리필름",
   "description": "화면 공유를 위한 jidesha 기반의 크롬 확장 도구입니다",
   "version": "0.1.7",
